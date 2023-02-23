@@ -5,3 +5,4 @@
   * Java 11
   * Spring Boot
   * ViaCep API
+  * Testes unitários JUnit5
